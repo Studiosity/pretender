@@ -1,3 +1,7 @@
+## 0.3.2 [unreleased]
+
+- Support for Mongoid `BSON::ObjectId` out of the box
+
 ## 0.3.1
 
 - Fixed `stack level too deep` error
